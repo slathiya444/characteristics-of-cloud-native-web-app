@@ -17,10 +17,3 @@ human intervention, and continues to provide service
 
 You will need to have python2.7 or python3 installed on your machine in order to
 run this task.
-
-Using commands suggested in the prompt you can test the 3 characteristics
-mentioned in the introduction section.
-
----
- Author: Lan Kostrikin
- Date:   20 Feb 2023
